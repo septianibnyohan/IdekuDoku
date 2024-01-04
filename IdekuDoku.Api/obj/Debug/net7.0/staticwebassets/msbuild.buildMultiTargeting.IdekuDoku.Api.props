@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/IdekuDoku.Api.props" />
+</Project>

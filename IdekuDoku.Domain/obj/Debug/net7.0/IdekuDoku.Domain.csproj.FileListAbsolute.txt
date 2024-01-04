@@ -1,0 +1,14 @@
+/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Domain/bin/Debug/net7.0/IdekuDoku.Domain.deps.json
+/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Domain/bin/Debug/net7.0/IdekuDoku.Domain.dll
+/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Domain/bin/Debug/net7.0/IdekuDoku.Domain.pdb
+/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Domain/obj/Debug/net7.0/IdekuDoku.Domain.csproj.AssemblyReference.cache
+/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Domain/obj/Debug/net7.0/IdekuDoku.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Domain/obj/Debug/net7.0/IdekuDoku.Domain.AssemblyInfoInputs.cache
+/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Domain/obj/Debug/net7.0/IdekuDoku.Domain.AssemblyInfo.cs
+/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Domain/obj/Debug/net7.0/IdekuDoku.Domain.csproj.CoreCompileInputs.cache
+/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Domain/obj/Debug/net7.0/IdekuDoku.Domain.dll
+/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Domain/obj/Debug/net7.0/refint/IdekuDoku.Domain.dll
+/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Domain/obj/Debug/net7.0/IdekuDoku.Domain.pdb
+/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Domain/obj/Debug/net7.0/ref/IdekuDoku.Domain.dll
+/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Domain/bin/Debug/net7.0/IdekuDoku.Domain.runtimeconfig.json
+/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Domain/obj/Debug/net7.0/IdekuDoku.Domain.genruntimeconfig.cache

@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Models/IdekuDoku.Models.csproj": {}
+  },
+  "projects": {
+    "/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Helper/IdekuDoku.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Helper/IdekuDoku.Helper.csproj",
+        "projectName": "IdekuDoku.Helper",
+        "projectPath": "/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Helper/IdekuDoku.Helper.csproj",
+        "packagesPath": "/home/septian/.nuget/packages/",
+        "outputPath": "/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Helper/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/septian/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Models/IdekuDoku.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Models/IdekuDoku.Models.csproj",
+        "projectName": "IdekuDoku.Models",
+        "projectPath": "/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Models/IdekuDoku.Models.csproj",
+        "packagesPath": "/home/septian/.nuget/packages/",
+        "outputPath": "/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/septian/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Helper/IdekuDoku.Helper.csproj": {
+                "projectPath": "/home/septian/Data/ProjectDev/IDEKU/src/IdekuDoku/IdekuDoku.Helper/IdekuDoku.Helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
